@@ -1,0 +1,14 @@
+# Frontend
+streamlit==1.32.0
+
+# Backend API
+fastapi==0.95.2
+uvicorn==0.22.0
+python-multipart==0.0.6
+
+# Core functionality
+pyttsx3==2.90
+pdfplumber==0.10.2
+
+# Pydantic (compatible version)
+pydantic==1.10.13
